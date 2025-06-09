@@ -1,0 +1,103 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #434455;
+}
+
+.A1,
+.A2,
+.A3,
+.mail,
+.tel {
+  color: #2e2f42;
+  text-decoration: none;
+}
+.wslogo:hover,
+.A1:hover,
+.A2:hover,
+.A3:hover,
+.mail:hover,
+.tel:hover {
+  color: #404bbf;
+}
+
+.A1:active {
+  color: #404bbf;
+  text-decoration: underline;
+}
+
+.wslogo {
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  line-height: 1.2;
+  text-decoration: none;
+}
+
+.wslogo span {
+  color: #2e2f42;
+}
+
+.ilk-alan {
+  background: #2e2f42;
+}
+
+.tus {
+  background-color: #4d5ae5;
+  color: #fff;
+  cursor: pointer;
+  width: 169px;
+  height: 56px;
+}
+
+.tus:hover {
+  background-color: #404bbf;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 56px;
+  line-height: 1.1;
+  color: #fff;
+}
+
+h2 {
+  font-weight: bold;
+  color: #2e2f42;
+  font-size: 36px;
+}
+
+h3 {
+  font-weight: Medium;
+  color: #2e2f42;
+}
+
+.our-team {
+  background: #f4f4fd;
+}
+
+ul {
+  list-style: none;
+}
+
+footer {
+  background: #2e2f42;
+  color: #f4f4fd;
+}
+
+.footer-logo {
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  line-height: 1.2;
+  text-decoration: none;
+}
+
+.footer-logo span {
+  color: #f4f4fd;
+}
+
+.footer-logo:hover {
+  color: #404bbf;
+}
