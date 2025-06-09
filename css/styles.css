@@ -1,10 +1,28 @@
+/*
+############################################################################
+############################################################################
+############################################################################
+*/
 body {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   line-height: 1.5;
   color: #434455;
 }
-
+/* Bu bloğu sonradan ekledim daha yeni. Bu şekilde dursun şimdilik
+h1,
+h2,
+h3,
+p,
+ul {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+*/
 .A1,
 .A2,
 .A3,
@@ -49,6 +67,7 @@ body {
   cursor: pointer;
   width: 169px;
   height: 56px;
+  border-radius: 4px;
 }
 
 .tus:hover {
