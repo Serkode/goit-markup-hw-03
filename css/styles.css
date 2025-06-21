@@ -9,7 +9,8 @@ body {
   line-height: 1.5;
   color: #434455;
 }
-/* Bu bloğu sonradan ekledim daha yeni. Bu şekilde dursun şimdilik
+/* Bu bloğu sonradan ekledim daha yeni. Bu şekilde dursun şimdilik.*/
+
 h1,
 h2,
 h3,
@@ -22,7 +23,7 @@ ul {
   font: inherit;
   vertical-align: baseline;
 }
-*/
+
 .A1,
 .A2,
 .A3,
@@ -119,4 +120,9 @@ footer {
 
 .footer-logo:hover {
   color: #404bbf;
+}
+
+.container {
+  width: 1158px;
+  display: flexbox;
 }
