@@ -54,6 +54,18 @@ ul {
   text-decoration: none;
 }
 
+.container {
+  display: flex;
+}
+
+.navul {
+  display: flex;
+}
+
+.addressul {
+  display: flex;
+}
+
 .wslogo span {
   color: #2e2f42;
 }
@@ -124,5 +136,4 @@ footer {
 
 .container {
   width: 1158px;
-  display: flexbox;
 }
