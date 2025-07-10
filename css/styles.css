@@ -52,7 +52,6 @@ ul {
   font-size: 18px;
   line-height: 1.2;
   text-decoration: none;
-  margin: 24px 76px 24px 156px;
 }
 
 .container {
@@ -61,29 +60,19 @@ ul {
   margin: auto;
 }
 
-.navul {
-  display: flex;
-  margin: 24px 0px 24px 0px;
+header .container {
+  padding: 24px 156px 24px 156px;
 }
 
-.navul .A2 {
-  padding-right: 40px;
-  padding-left: 40px;
+.navul {
+  display: flex;
+  padding: 0px 332px 0px 76px;
+  gap: 40px;
 }
 
 .addressul {
   display: flex;
-  margin: 24px 156px 24px 332px;
-}
-
-.addressul .mail {
-  padding: 24px 40x 24px 0px;
-}
-
-.addressul .tel {
-  padding: 24px 0px 24px 40px;
-  /*margin-right: 156px;*/
-  margin: auto;
+  gap: 40px;
 }
 
 .ilk-alan {
@@ -160,7 +149,7 @@ h3 {
 
 .our-team {
   /*width: 1440px;*/
-  height: 732px;
+  /*height: 732px;*/
   /*margin: auto;*/
   background: #f4f4fd;
 }
@@ -184,7 +173,7 @@ h3 {
 
 .ourportfolio {
   /*width: 1312px;*/
-  height: 1377px;
+  /*height: 1377px;*/
   margin: auto;
 }
 
@@ -214,6 +203,7 @@ h3 {
   display: flex;
   margin: auto;
   padding-top: 48px;
+  margin-bottom: 120px;
   gap: 24px;
 }
 
