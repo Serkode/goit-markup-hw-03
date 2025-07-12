@@ -48,6 +48,7 @@ ul {
 
 .wslogo {
   color: #4d5ae5;
+  font-weight: 700;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   line-height: 1.2;
@@ -226,6 +227,7 @@ footer .container {
 
 .footer-logo {
   color: #4d5ae5;
+  font-weight: 700;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   line-height: 1.2;
